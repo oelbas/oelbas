@@ -1,8 +1,14 @@
 ### Merhaba, ben Özdemir 👋
 
-İstanbul'dan. Aile arşivleri, düzenli dosyalar ve işleri kolaylaştıran küçük araçlarla uğraşıyorum.
+İstanbul merkezli; **bilişim sistemleri** ve **fotoğrafçılık** alanlarında çalışıyorum. Teknolojiyi görsel üretimle buluşturuyor, arşivlerden iş akışlarına kadar karmaşık süreçleri sade, güvenilir ve sürdürülebilir sistemlere dönüştüren araçlar geliştiriyorum.
 
-*Hi, I'm Özdemir from Istanbul. I build small tools that keep family archives and everyday files in order.*
+*Based in Istanbul, working at the intersection of **information systems** and **photography**. I build tools that turn complex processes — from photo archives to everyday workflows — into simple, reliable and lasting systems.*
+
+#### Odak alanları / Focus
+
+- 🖥️ Bilişim sistemleri, otomasyon ve veri düzeni · *Information systems, automation and data organization*
+- 📷 Fotoğrafçılık ve dijital arşiv yönetimi · *Photography and digital archive management*
+- 🤖 Yapay zekâ destekli iş akışları · *AI-assisted workflows*
 
 #### Projeler / Projects
 
